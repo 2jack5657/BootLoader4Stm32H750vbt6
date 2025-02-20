@@ -1,0 +1,3 @@
+D:/Working/Stm32/CLion/BootLoader/cmake-build-debug/CMakeFiles/BootLoader.elf.dir
+D:/Working/Stm32/CLion/BootLoader/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Working/Stm32/CLion/BootLoader/cmake-build-debug/CMakeFiles/rebuild_cache.dir
