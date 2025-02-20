@@ -1,0 +1,2 @@
+# BootLoader4Stm32H750vbt6
+本仓库用于存放针对正点原子MiniPro H750开发板编写的用于Clion+Openocd调试的BootLoader和Application工程模板
